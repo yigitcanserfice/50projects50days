@@ -2,6 +2,6 @@
 
 ## Deneme
 
-| #   | Project  |
-| :-- | :------: |
-| 1   | Açıklama |
+| #   | Project  |  Status  |
+| :-- | :------: | :------: |
+| 1   | Açıklama | Açıklama |
