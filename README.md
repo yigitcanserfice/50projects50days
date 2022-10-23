@@ -2,6 +2,6 @@
 
 ## Deneme
 
-| Ürünlerin Numaraları | Ürün Açıklaması | Ürünlerin Fiyatı |
-| :------------------- | :-------------: | ---------------: |
-| 1                    |    Açıklama     |           Fiyatı |
+| #   | Project  |
+| :-- | :------: |
+| 1   | Açıklama |
