@@ -2,4 +2,4 @@
 
 | #   | Project  |  Live Site |
 | :-- | :------: | :------: |
-| 1   | Açıklama | [Expending Cards] (https://expendingcards.vercel.app/) |
+| 1   | Açıklama | [Expending Cards](https://expendingcards.vercel.app/) |
