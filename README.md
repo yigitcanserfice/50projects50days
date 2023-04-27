@@ -1,5 +1,5 @@
 # 50 Projects in 50 Days
 
-| #   | Project  |  Status  |
+| #   | Project  |  Live Site |
 | :-- | :------: | :------: |
 | 1   | Açıklama | Açıklama |
