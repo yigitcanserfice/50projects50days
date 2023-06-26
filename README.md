@@ -21,6 +21,7 @@
 | 17  | [Movie App](https://movie-app-ys.netlify.app/) |
 | 18  | [Background Slider](https://background-slider-ys.netlify.app/) |
 | 19  | [Button Click Effect](https://button-click-effect.netlify.app/) |
-| 19  | [Pokedex](https://pokedex-ys.netlify.app/) |
+| 28  | [Github Profiles](https://github-profiles-ys.netlify.app/) |
+| 37  | [Pokedex](https://pokedex-ys.netlify.app/) |
 
 
